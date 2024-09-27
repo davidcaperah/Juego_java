@@ -15,7 +15,6 @@ public class Ahorcado {
         final String GREEN = "\033[0;32m";
         final String YELLOW = "\033[0;33m";
         final String BLUE = "\033[0;34m";
-        final String PURPLE = "\033[0;35m";
 
         System.out.println(RED + "********************************" + RESET);
         System.out.println(GREEN + "*     EL AHORCADO THE GAME    *" + RESET);
